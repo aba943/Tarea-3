@@ -1,0 +1,131 @@
+body{
+    font-family: Poppins;
+}
+.nombre{
+    font-size: 25px;
+    text-align: center;
+    
+}
+.principal{
+    background-color:#192847;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+  
+    
+    
+}
+.box1{
+    background-color: #FF4B50 ;
+    margin: 20px;
+    display: flex;
+    
+    
+    
+}
+.box11{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;    
+    
+}
+.box2{
+    background-color: #01F3E7 ;
+    
+    margin: 20px;
+    display: flex;
+    
+    
+}
+.box22{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.box3{
+    background-color: #FFDB01 ;
+   
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+    
+}
+.box31{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    flex-grow: 6;
+    flex-basis: calc(33.33% - 20px);
+}
+.box32{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+.box33{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+  
+    
+}
+.box33{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+.box34{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    flex-grow: 6;
+
+}
+.box35{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+.box36{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    flex-basis: auto;
+    flex-basis: calc(33.33% - 20px);
+}
